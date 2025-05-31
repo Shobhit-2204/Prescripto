@@ -89,7 +89,7 @@ const appointmentComplete = async (req, res) => {
             return res.json({success:false, message:'Mark Failed'})
         }
 
-    } catch {
+    } catch (error) {
         console.log(error)
         res.json({success:false, message:error.message})
     }
