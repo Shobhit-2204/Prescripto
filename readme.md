@@ -97,7 +97,48 @@ CURRENCY="INR"
 - Frontend tested manually with authenticated user flows
 
 ---
+## 📸 Screenshots
+
+### Home Page  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Homepage.png?raw=true" width="900"/>
 
 
 
+### All Doctors Page  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Doctors%20Page.png?raw=true" width="900"/>
 
+
+
+### Contact Us Page  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Contact%20Us%20Page.png?raw=true" width="900"/>
+
+
+
+### About Page  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20About%20Page.png?raw=true" width="900"/>
+
+
+
+### My Profile  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/My%20Profile%20Page.png?raw=true" width="900"/>
+
+
+
+### My Appointments  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/My%20Appointments%20Page.png?raw=true" width="900"/>
+
+
+
+### Admin Panel  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Admin%20Page%201.png?raw=true" width="900"/>
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Admin%20Page%202.png?raw=true" width="900"/>
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Admin%20Page%203.png?raw=true" width="900"/>
+
+
+
+### Doctor Panel  
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Doctor%20Page%201.png?raw=true" width="900"/>
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Doctor%20Page%202.png?raw=true" width="900"/>
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Doctor%20Page%203.png?raw=true" width="900"/>
+
+---
