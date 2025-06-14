@@ -4,6 +4,14 @@
 
 ---
 
+## 🔗 Live Demo
+Access the deployed project here:
+
+- [Prescripto Live](https://prescripto-frontend-6hm0.onrender.com/)
+- [Admin/Doctor Panel](https://prescripto-admin-hbnq.onrender.com/)
+
+---
+
 ## 🚀 Features
 
 ### 🧑‍⚕️ Admin Panel
