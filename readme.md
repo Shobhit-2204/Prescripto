@@ -113,7 +113,7 @@ CURRENCY="INR"
 
 
 ### All Doctors Page  
-<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Doctors%20Page.png?raw=true" width="900"/>
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Doctors%20Page.jpeg?raw=true" width="900"/>
 
 
 
