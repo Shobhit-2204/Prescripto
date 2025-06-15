@@ -108,7 +108,7 @@ CURRENCY="INR"
 ## 📸 Screenshots
 
 ### Home Page  
-<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Homepage.png?raw=true" width="900"/>
+<img src="https://github.com/Shobhit-2204/Prescripto/blob/main/assets/Prescripto%20-%20Home%20Page.jpeg?raw=true" width="900"/>
 
 
 
